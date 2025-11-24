@@ -28,7 +28,6 @@ I'm a passionate developer who loves to create amazing projects and contribute t
 
 <div align="center">
 
-### Dark Mode (Default)
 ![Snake animation dark](https://raw.githubusercontent.com/codewithshumon/codewithshumon/output/github-contribution-grid-snake-dark.svg)
 
 <details>
@@ -42,10 +41,10 @@ I'm a passionate developer who loves to create amazing projects and contribute t
 </div>
 
 ## 📫 Let's Connect!
-- **Portfolio:** [your-portfolio-link](https://your-portfolio.com)
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
-- **Email:** your.email@domain.com
+- **Portfolio:** (https://shumon.scaledive.com/)
+- **LinkedIn:** (https://www.linkedin.com/in/shumondotdev/)
+- **Twitter:** (https://twitter.com)
+- **Email:** dev.shumonkhan@gmail.com
 
 ## 💻 Current Projects
 - 🔭 I'm currently working on **an amazing open source project**
@@ -56,8 +55,8 @@ I'm a passionate developer who loves to create amazing projects and contribute t
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [My First Blog Post](https://your-blog.com/first-post)
-- [Learning GitHub Actions](https://your-blog.com/github-actions)
+- [See My Open Sources](https://www.npmjs.com/~codeshumon)
+- [See My Tutorials](https://www.youtube.com/@DeCodeShumon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
