@@ -1,8 +1,8 @@
 # Hello, I'm Shumon! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/codewithshumon?style=social)](https://github.com/codewithshumon)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
-![](https://komarev.com/ghpvc/?username=codewithshumon&color=blueviolet)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome)](https://shumon.scaledive.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/shumondotdev)
 
 ## 🚀 About Me
 I'm a passionate developer who loves to create amazing projects and contribute to open source. Welcome to my GitHub profile!
@@ -29,25 +29,16 @@ I'm a passionate developer who loves to create amazing projects and contribute t
 
 ## 🐍 Contribution Snake Animation
 
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/codewithshumon/codewithshumon/output/github-contribution-grid-snake.svg)
-  
-</div>
-
 <details>
-  <summary>🌙 Dark Mode Version</summary>
+  <summary>🌙 Dark Mode | ☀️ Light Mode</summary>
   
+  ### Dark Mode
   ![Snake animation dark](https://raw.githubusercontent.com/codewithshumon/codewithshumon/output/github-contribution-grid-snake-dark.svg)
   
+  ### Light Mode  
+  ![Snake animation light](https://raw.githubusercontent.com/codewithshumon/codewithshumon/output/github-contribution-grid-snake.svg)
+  
 </details>
-
-## 📈 Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithshumon/codewithshumon/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithshumon/codewithshumon/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codewithshumon/codewithshumon/output/github-contribution-grid-snake.svg">
-</picture>
 
 ## 📫 Let's Connect!
 - **Portfolio:** [your-portfolio-link](https://your-portfolio.com)
