@@ -19,24 +19,26 @@ I'm a passionate developer who loves to create amazing projects and contribute t
 
 <div align="center">
   
-  ![Shumon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithshumon&show_icons=true&theme=radical)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithshumon&layout=compact&theme=radical)
-  
   ![GitHub Streak](https://streak-stats.demolab.com/?user=codewithshumon&theme=radical)
 
 </div>
 
 ## 🐍 Contribution Snake Animation
 
-<details>
-  <summary>🌙 Dark Mode | ☀️ Light Mode</summary>
+<div align="center">
   
-  ### Dark Mode
   ![Snake animation dark](https://raw.githubusercontent.com/codewithshumon/codewithshumon/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<details>
+  <summary>☀️ Switch to Light Mode</summary>
   
-  ### Light Mode  
-  ![Snake animation light](https://raw.githubusercontent.com/codewithshumon/codewithshumon/output/github-contribution-grid-snake.svg)
+  <div align="center">
+    
+    ![Snake animation light](https://raw.githubusercontent.com/codewithshumon/codewithshumon/output/github-contribution-grid-snake.svg)
+    
+  </div>
   
 </details>
 
