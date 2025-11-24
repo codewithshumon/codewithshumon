@@ -8,10 +8,10 @@
 I'm a passionate developer who loves to create amazing projects and contribute to open source. Welcome to my GitHub profile!
 
 ## 🛠️ Technologies & Tools
-- **Languages:** JavaScript, TypeScript, Python, Java
-- **Frontend:** React, Vue.js, HTML5, CSS3, Tailwind
-- **Backend:** Node.js, Express, Django, Spring Boot
-- **Database:** MongoDB, PostgreSQL, MySQL
+- **Languages:** JavaScript, TypeScript
+- **Frontend:** React.js, Next.js, Tailwind
+- **Backend:** Node.js, Express
+- **Database:** MongoDB, PostgreSQL
 - **DevOps:** Docker, AWS, GitHub Actions, CI/CD
 - **Tools:** Git, VS Code, Figma, Postman
 
@@ -43,7 +43,7 @@ I'm a passionate developer who loves to create amazing projects and contribute t
 ## 📫 Let's Connect!
 - **Portfolio:** (https://shumon.scaledive.com/)
 - **LinkedIn:** (https://www.linkedin.com/in/shumondotdev/)
-- **Twitter:** (https://twitter.com)
+- **Twitter:** (https://x.com/shumondotdev)
 - **Email:** dev.shumonkhan@gmail.com
 
 ## 💻 Current Projects
