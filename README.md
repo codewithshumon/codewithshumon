@@ -23,24 +23,23 @@ I'm a passionate developer who loves to create amazing projects and contribute t
 
 </div>
 
-## 🐍 Contribution Snake Animation
+
+## 🐍 Contribution
 
 <div align="center">
-  
-  ![Snake animation dark](https://raw.githubusercontent.com/codewithshumon/codewithshumon/output/github-contribution-grid-snake-dark.svg)
 
-</div>
+### Dark Mode (Default)
+![Snake animation dark](https://raw.githubusercontent.com/codewithshumon/codewithshumon/output/github-contribution-grid-snake-dark.svg)
 
 <details>
-  <summary>☀️ Switch to Light Mode</summary>
+  <summary>☀️ Click to View Light Mode</summary>
   
-  <div align="center">
-    
-    ![Snake animation light](https://raw.githubusercontent.com/codewithshumon/codewithshumon/output/github-contribution-grid-snake.svg)
-    
-  </div>
+  ### Light Mode
+  ![Snake animation light](https://raw.githubusercontent.com/codewithshumon/codewithshumon/output/github-contribution-grid-snake.svg)
   
 </details>
+
+</div>
 
 ## 📫 Let's Connect!
 - **Portfolio:** [your-portfolio-link](https://your-portfolio.com)
