@@ -33,7 +33,6 @@ I'm a passionate developer who loves to create amazing projects and contribute t
 <details>
   <summary>☀️ Click to View Light Mode</summary>
   
-  ### Light Mode
   ![Snake animation light](https://raw.githubusercontent.com/codewithshumon/codewithshumon/output/github-contribution-grid-snake.svg)
   
 </details>
