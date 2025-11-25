@@ -30,17 +30,39 @@ Passionate full-stack developer crafting digital experiences with modern technol
 
 <div align="center">
 
-### 🏠 [Luxury Real Estate Platform](https://house.atctbd.com/)
-*Advanced property listing and management system*
+| 🏠 Real Estate | 🛒 E-commerce | 💰 POS System | 📝 Coming Soon |
+|:--------------:|:-------------:|:------------:|:-------------:|
+| [**Luxury Platform**](https://house.atctbd.com/)<br>Advanced property listing system | [**Bazrin Shop**](https://bazrin.com)<br>Full-featured online store | [**Merchant POS**](https://merchant.bazrin.com)<br>Unified sales management | **Text Editor**<br>Modern editing solution |
 
-### 🛒 [E-commerce Platform](https://bazrin.com) 
-*Full-featured online shopping experience*
+</div>
 
-### 💰 [POS with E-commerce Integration](https://merchant.bazrin.com)
-*Unified point-of-sale and online store management*
 
-### 📝 Open Source Text Editor
-*Coming soon - Modern text editing solution*
+## 💻 Featured Projects
+
+<div align="center">
+
+### 🏠 [Luxury Real Estate](https://house.atctbd.com/)
+Advanced property listing and management system
+
+### 🛒 [Bazrin E-commerce](https://bazrin.com) 
+Full-featured online shopping platform
+
+### 💰 [Merchant POS](https://merchant.bazrin.com)
+POS with E-commerce integration
+
+### 📝 Open Source Editor
+Modern text editing solution *(Coming Soon)*
+
+</div>
+
+## 💻 Featured Projects
+
+<div align="center">
+
+[![Real Estate](https://img.shields.io/badge/🏠_Luxury_Real_Estate-View_Project-FF6B6B?style=flat-square)](https://house.atctbd.com/)
+[![E-commerce](https://img.shields.io/badge/🛒_Bazrin_Ecommerce-Live_Site-4ECDC4?style=flat-square)](https://bazrin.com)
+[![POS System](https://img.shields.io/badge/💰_Merchant_POS-Demo-45B7D1?style=flat-square)](https://merchant.bazrin.com)
+[![Text Editor](https://img.shields.io/badge/📝_Text_Editor-Coming_Soon-96CEB4?style=flat-square)]()
 
 </div>
 
