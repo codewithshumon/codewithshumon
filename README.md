@@ -36,36 +36,6 @@ Passionate full-stack developer crafting digital experiences with modern technol
 
 </div>
 
-
-## 💻 Featured Projects
-
-<div align="center">
-
-### 🏠 [Luxury Real Estate](https://house.atctbd.com/)
-Advanced property listing and management system
-
-### 🛒 [Bazrin E-commerce](https://bazrin.com) 
-Full-featured online shopping platform
-
-### 💰 [Merchant POS](https://merchant.bazrin.com)
-POS with E-commerce integration
-
-### 📝 Open Source Editor
-Modern text editing solution *(Coming Soon)*
-
-</div>
-
-## 💻 Featured Projects
-
-<div align="center">
-
-[![Real Estate](https://img.shields.io/badge/🏠_Luxury_Real_Estate-View_Project-FF6B6B?style=flat-square)](https://house.atctbd.com/)
-[![E-commerce](https://img.shields.io/badge/🛒_Bazrin_Ecommerce-Live_Site-4ECDC4?style=flat-square)](https://bazrin.com)
-[![POS System](https://img.shields.io/badge/💰_Merchant_POS-Demo-45B7D1?style=flat-square)](https://merchant.bazrin.com)
-[![Text Editor](https://img.shields.io/badge/📝_Text_Editor-Coming_Soon-96CEB4?style=flat-square)]()
-
-</div>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -78,13 +48,11 @@ Modern text editing solution *(Coming Soon)*
 
 <div align="center">
 
-### 🌙 Dark Mode (Default)
 ![Snake animation dark](https://raw.githubusercontent.com/codewithshumon/codewithshumon/output/github-contribution-grid-snake-dark.svg)
 
 <details>
 <summary>☀️ Click to View Light Mode</summary>
 
-### ☀️ Light Mode
 ![Snake animation light](https://raw.githubusercontent.com/codewithshumon/codewithshumon/output/github-contribution-grid-snake.svg)
 
 </details>
